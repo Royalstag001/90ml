@@ -1,6 +1,0 @@
-public class HelloJava {
-    public static void main(String[] args) {
-        // Print "hello java" to the console
-        System.out.println("hello java");
-    }
-}
