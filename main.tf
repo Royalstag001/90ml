@@ -1,3 +1,9 @@
+provider "aws" {
+  region = "us-east-1"
+}
+
+
+
 resource "aws_instance" "my_vm" {
     ami = var.my_ami
     instance_type = var.my_type
