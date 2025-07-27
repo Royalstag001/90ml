@@ -1,3 +1,7 @@
+variable "my_region" {
+  description = "allocated to us-east-1 region"
+}
+
 variable "my_ami" {
   description = "allocated to us-east-1 region"
 }
